@@ -68,6 +68,12 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/>
   </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-2038873-1720086.png" width=40px alt="Kotlin" title="Kotlin"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+  </a>
+
+     
 </p>
 
 

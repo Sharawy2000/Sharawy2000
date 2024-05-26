@@ -70,11 +70,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharawy2000&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=FFFFFF&icon_color=bb2acf" alt="Wesam El-ShaȜrawi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharawy2000&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=bb2acf&bg_color=0D1117" alt="Wesam El-ShaȜrawi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharawy2000&theme=dark" alt="Wesam El-ShaȜrawi" /></p>
 
 <details open>
     <summary><h2>📊 GitHub Stats:</h2></summary>

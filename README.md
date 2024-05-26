@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Wesam El-ShaȜrawi</h1>
 <h3 align="center">A Passionate PHP - Laravel Developer</h3>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=18A8F7&center=true&vCenter=true&width=435&lines=PHP+Laravel+Developer+%F0%9F%93%B1" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=18A8F7&center=true&vCenter=true&width=435&lines=PHP+Laravel+Developer" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="coding" width="400" height="250" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3llZjMzYm5vbnNxc3pkejlzY25qaXdueHprZmJncTlvNDZxODAzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif>
@@ -9,8 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharawy2000&label=Profile%20views&color=0e75b6&style=flat" alt="Wesam El-ShaȜrawi" /> </p>
 
 - 🌱 I’m currently learning **Laravel**
-- 💬 Ask me about **Python, PHP**
-- 📫 How to reach me **mr.wesamahmed@example.com**
+- 💬 Ask me about **PHP,Laravel**
+- 📫 How to reach me **mr.wesamahmed@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

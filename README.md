@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Wesam El-ShaȜrawi</h1>
 <h3 align="center">A Passionate PHP - Laravel Developer</h3>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=18A8F7&center=true&vCenter=true&width=435&lines=Laravel+Developer+%F0%9F%93%B1" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=18A8F7&center=true&vCenter=true&width=435&lines=PHP+Laravel+Developer+%F0%9F%93%B1" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="coding" width="400" height="250" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3llZjMzYm5vbnNxc3pkejlzY25qaXdueHprZmJncTlvNDZxODAzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif>
@@ -75,3 +75,51 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharawy2000&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=bb2acf&bg_color=0D1117" alt="Wesam El-ShaȜrawi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharawy2000&theme=dark" alt="Wesam El-ShaȜrawi" /></p>
+
+<details open>
+    <summary><h2>📊 GitHub Stats:</h2></summary>
+        <table border="0" align="center">
+            <tr border="0">
+                <td width="50%" align="center">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharawy2000&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
+                    <br><br>
+                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharawy2000&theme=tokyonight&hide_border=true"/>
+                </td>
+                <td width="50%" align="center">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharawy2000&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+                </td>
+            </tr>
+       </table>
+    
+</details>
+
+<br>
+
+<details open>
+    <summary><h2>🏆 GitHub Trophies</h2></summary>
+    <div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Sharawy2000&theme=tokyonight&no-frame=true&no-bg=false&margin-w=20&margin-h=20&column=-1"/>
+    </div>
+</details>
+
+
+<br>
+
+
+<details open>
+    <summary><h3>🔝 Top Contributed Repos</h3></summary>
+    <div align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Sharawy2000&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+    </div>
+</details>
+    
+
+---
+
+
+<details open>
+    <summary><h3>✍️ Random Dev Quote</h3></summary>
+    <div align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+    </div>
+</details>

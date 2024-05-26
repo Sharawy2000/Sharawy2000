@@ -73,15 +73,13 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
   <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=40px alt="Android Studio" title="Android Studio"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=40px alt="Android Studio" title="Android Studio"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
   <a>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" width=40px alt="VS Code" title="VS Code"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" width=40px alt="VS Code" title="VS Code"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
-
-     
 </p>
 
 

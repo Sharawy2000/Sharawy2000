@@ -1,8 +1,8 @@
-<h1 align="center">Hello World 👋, I'm </h1>
-<h3 align="center">A Passionate PHP - Laravel Developer from [Your Country]</h3>
-<img align="right" alt="coding" width="400" height="250" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47cdsr7jgt6t10o5n8p6sqntky9e099q4oyf8po1re&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<h1 align="center">Hello World 👋, I'm Wesam El-ShaȜrawi</h1>
+<h3 align="center">A Passionate PHP - Laravel Developer</h3>
+<img align="right" alt="coding" width="400" height="250" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh6YjJ4MGc3Y2V0amdvOG95NTRoM2RkMHdxeWIybWx0N3p4dTBndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharawy2000&label=Profile%20views&color=0e75b6&style=flat" alt="Wesam El-ShaȜrawi" /> </p>
 
 - 🌱 I’m currently learning **Laravel**
 - 💬 Ask me about **Python, PHP**

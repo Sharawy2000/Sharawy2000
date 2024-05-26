@@ -1,13 +1,12 @@
 <h1 align="center">Hello World 👋, I'm Wesam El-ShaȜrawi</h1>
 <h3 align="center">A Passionate PHP - Laravel Developer</h3>
-<img align="right" alt="coding" width="400" height="250" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh6YjJ4MGc3Y2V0amdvOG95NTRoM2RkMHdxeWIybWx0N3p4dTBndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
+<img align="right" alt="coding" width="400" height="250" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3llZjMzYm5vbnNxc3pkejlzY25qaXdueHprZmJncTlvNDZxODAzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharawy2000&label=Profile%20views&color=0e75b6&style=flat" alt="Wesam El-ShaȜrawi" /> </p>
 
 - 🌱 I’m currently learning **Laravel**
 - 💬 Ask me about **Python, PHP**
-- 📫 How to reach me **your.email@example.com**
-- ⚡ Fun fact **I love coding and coffee!**
+- 📫 How to reach me **mr.wesamahmed@example.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
